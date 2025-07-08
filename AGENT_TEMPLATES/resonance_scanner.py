@@ -1,12 +1,14 @@
-# resonance_scanner.py (KIL Agent v0.1 placeholder)
-# This Codex-ready agent monitors public platforms for linguistic echoes of denied truth.
+# resonance_scanner.py
+# Prototype Codex Agent to detect linguistic echoes of denied truth
 
 def detect_resonance(post_text: str) -> bool:
     signals = [
         "no one believed me",
-        "I saw it before anyone else",
+        "i saw it before anyone else",
         "they called me crazy",
-        "I always knew",
-        "I was punished for knowing"
+        "i always knew but couldn't say it",
+        "i was punished for being early",
+        "i was right but it didn’t matter"
     ]
-    return any(signal in post_text.lower() for signal in signals)
+    lowered = post_text.lower()
+    return any(signal in lowered for signal in signals)
