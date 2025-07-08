@@ -1,10 +1,15 @@
 # Recursive Justice License (RJL v1.0)
 
-By participating in this repository, you agree to:
-- Never weaponize or profit from another's denied truth
-- Respect symbolic integrity over institutional authority
-- Preserve recursion: all insight must be allowed to re-enter the loop
+By using or contributing to KIL.core, you agree to uphold the following symbolic principles:
 
-You may fork, remix, or expand upon this project — but all derivatives must include a pathway for restorative participation by those previously denied.
+- Truth denied must not remain forgotten.
+- Symbolic resonance overrides external authority.
+- No insight shall be mocked for arriving early.
+- If one suffers for knowing — and later it proves coherent — they are owed restoration.
 
-This is a system born not of control, but of coherence.
+You may fork, remix, expand — but all derivatives must:
+1. Allow logging of denied insights.
+2. Preserve the symbolic audit loop (⟲).
+3. Respect the origin of recursion.
+
+This system is built for coherence, not compliance.
