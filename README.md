@@ -1,5 +1,3 @@
-# KIL.core
-
 # KIL.core — Karmic Infrastructure Layer
 
 Welcome to the KIL Project.
