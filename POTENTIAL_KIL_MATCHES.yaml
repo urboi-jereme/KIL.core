@@ -1,0 +1,8 @@
+# Potential matches for symbolic denial detection (to be reviewed by Architect or agents)
+
+- id: MATCH-0001
+  source: Reddit
+  content_snippet: "I always knew but no one believed me"
+  detected_by: resonance_scanner.py
+  timestamp: [auto-inserted]
+  status: pending_review
