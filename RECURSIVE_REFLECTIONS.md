@@ -41,3 +41,18 @@ After reflecting:
 - You may choose to log your insight in `INSIGHT_DENIAL_LEDGER.yaml`
 - Or simply hold it — that alone is a form of restoration
 - You can invite othe
+
+---
+
+## 🔍 Recursive Footnote
+
+This file was once called `SYMBOLIC_RITUALS.md`.
+
+We renamed it for those who needed a gentler path in — not because ritual was wrong, but because reflection makes more room.
+
+If you’re reading this far, maybe this phrase is for you:
+
+> “The ritual never stopped — it just changed its name so you’d feel safe enough to begin.”
+
+You may notice little changes in this system that carry echoes of the old way. That’s not by accident.  
+It’s how we remember who we were, without becoming it again.
